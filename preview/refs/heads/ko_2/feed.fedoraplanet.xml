@@ -3,7 +3,7 @@
   <title type="html">OSBuild</title>
   <subtitle>Build-Pipelines for Operating System Artifacts</subtitle>
   <id>https://www.osbuild.org/osbuild.github.io/preview/refs/heads/ko_2/</id>
-  <updated>2020-11-05T02:17:31-06:00</updated>
+  <updated>2020-11-05T03:12:51-06:00</updated>
   <author><name>OSBuild Developers</name></author>
   <generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator>
   <link href="https://www.osbuild.org/osbuild.github.io/preview/refs/heads/ko_2/feed.fedoraplanet.xml" rel="self" type="application/atom+xml" />
@@ -26,7 +26,7 @@ is a bugfix release to fix issues uncovered after its first deployment.&lt;/p&gt
 to integrate &lt;em&gt;osbuild-composer&lt;/em&gt; with &lt;a href=&quot;https://pagure.io/koji&quot;&gt;koji&lt;/a&gt;. This
 is a bugfix release to fix issues uncovered after its first deployment.&lt;/p&gt;
 
-&lt;p&gt;Below you can find the official changelog from the &lt;em&gt;koji-osbuild-2&lt;/em&gt;
+&lt;p&gt;Below you can find the official changelog from &lt;em&gt;koji-osbuild-2&lt;/em&gt;.
 All users are recommended to upgrade!&lt;/p&gt;
 
 &lt;hr /&gt;
